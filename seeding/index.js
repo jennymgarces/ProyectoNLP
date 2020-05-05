@@ -2,7 +2,7 @@ const path = require('path');
 const { Seeder } = require('mongo-seeding');
 
 const config = {
-  database: 'mongodb://127.0.0.1:27017/mydatabase',
+  database: 'mongodb+srv://admin:admin@clusternpl-iizwz.mongodb.net/nlpdata?retryWrites=true&w=majority',
   dropDatabase: true,
 };
 const seeder = new Seeder(config);
