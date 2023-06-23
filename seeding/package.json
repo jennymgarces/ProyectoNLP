@@ -9,6 +9,6 @@
   "author": "Jenny Garces",
   "license": "ISC",
   "dependencies": {
-    "mongo-seeding": "^3.4.1"
+    "mongo-seeding": "^3.7.2"
   }
 }
